@@ -49,14 +49,17 @@
                 <div class="inputBox">
                     <input type="tel" name="telefone" id="telefone" class="inputUser" maxle required>
                     <label for="telefone" class="labelInput">Telefone</label>
+                </div>
                 <br><br>
                 <div class="inputBox">
                     <input type="text" name="cpf" id="cpf" class="inputUser" required>
                     <label for="cpf" class="labelInput">Cpf</label>
+                </div>
                 <br><br>
                 <div class="inputBox">
                     <input type="text" name="endereco" id="endereco" class="inputUser" required>
                     <label for="endereco" class="labelInput">Endereço</label>
+                </div>
                 <br><br>
                 <input type="submit" name="submit" id="submit">
             </fieldset>
