@@ -1,8 +1,7 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-image: linear-gradient(to right, 
-    rgb(0, 230, 110), rgb(0, 110, 230));
+    background-color: rgba(30, 144 ,255 ,1.0);
 }
 .box{
     color: white;
@@ -13,7 +12,7 @@ body{
     background-color: rgba(0, 0, 0, 0.7);
     padding: 15px;
     border-radius: 15px;
-    width: 25%;
+    width: 23%;
     height: 60%;
 }
 fieldset{
